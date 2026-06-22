@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(255, 102, 0);
+}
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color: lime;
+}
+h2.head{
+    color: red;
+}
+p{
+    color:white;
+}
+#para{
+    color: green;
+}
+#para spam{
+    color: black;
+    font-size: 24px;
+}
+ul li a{
+    color:blue;
+    font-weight: bold;
+}
+ul li a{
+    color: rgb(8, 0, 255);
+    text-decoration: underline;
+}
+
+
